@@ -1,0 +1,25 @@
+{
+  "name": "just-tech-news",
+  "version": "1.0.0",
+  "description": "just tech news",
+  "main": "\u001b[D\u001b[D\u001b[D\u001bserver\u001b[2~.js)",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/christiandc19/just-tech-news.git"
+  },
+  "author": "Chris",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/christiandc19/just-tech-news/issues"
+  },
+  "homepage": "https://github.com/christiandc19/just-tech-news#readme",
+  "dependencies": {
+    "express": "^4.17.3",
+    "mysql2": "^2.3.3",
+    "sequelize": "^6.17.0"
+  }
+}
